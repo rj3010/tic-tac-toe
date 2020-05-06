@@ -20,3 +20,6 @@
 Live Demo - https://tic-tac-toe-by-rahul.netlify.app/
 
 #Technologies Used :- Html, css , reactjs
+
+#Screenshots :-
+![](Images/TicTacToe.png)
