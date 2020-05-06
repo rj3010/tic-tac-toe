@@ -23,3 +23,4 @@ Live Demo - https://tic-tac-toe-by-rahul.netlify.app/
 
 #Screenshots :-
 ![](Images/TicTacToe.png)
+![](Images/TicTacToe1.png)
